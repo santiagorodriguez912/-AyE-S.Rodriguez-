@@ -1,0 +1,16 @@
+int a = 12+8*3;
+Console.WriteLine(a);
+int b =	(12+8)*3;
+Console.WriteLine(b);
+int c = 50/5+4;
+Console.WriteLine(c);
+int d = 100-10*2;
+Console.WriteLine(d);
+int e = 15%2;
+Console.WriteLine(e);
+int f = 20%5;
+Console.WriteLine(f);
+int g = 10/2*4;
+Console.WriteLine(g);
+int h = 5+5*10-2;
+Console.WriteLine(h);
