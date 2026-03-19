@@ -1,0 +1,236 @@
+﻿Console.WriteLine("ej 1");
+int a;
+a = 25;
+int b;
+b = 30;
+if (a > b)
+{
+    Console.WriteLine("verdadero");
+}else
+{
+    Console.WriteLine("falso");
+}
+
+Console.WriteLine("ej 2");
+int juan;
+juan = 14; 
+int mati;
+mati = 14;
+if (juan <= mati)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 3");
+int joaco;
+joaco = 0;
+int valen;
+valen = 0;
+if (joaco == valen)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 4");
+int agus = 10;
+int calampa = 10;
+if (agus != calampa)
+{
+    Console.WriteLine("verdaero");
+}else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 5");
+int mirta = 8;
+int pame = 3;
+if (mirta >= pame)
+{
+    Console.WriteLine("verdadero");
+}else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 6");
+int araceli = 15;
+int marisol = 15;
+if (araceli < marisol)
+{
+    Console.WriteLine("verdero");
+}else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 7");
+int isamedone = 100;
+int ornella = 50;
+if (isamedone != ornella)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 8");
+int julifunes = 7;
+float soficanone = 7.0f;
+if (julifunes == soficanone)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 9");
+float brazzers = 0.5f;
+int braziño = 0;
+if (brazzers > braziño)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 10");
+int messi = -5;
+int ronaldo = -2;
+if (messi < ronaldo)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 11");
+int c = 5;
+int d = 3;
+int e = 10;
+int f = 20;
+if (5 > 3 && 10 < 20)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 12");
+int ibai = 8;
+int grefg = 10;
+int illojuan = 5;
+int rubius = 2;
+if (ibai == grefg || illojuan!=rubius) 
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 13");
+int boca = 10;
+int river = 10;
+if (!(boca == river)){
+    Console.WriteLine("falso");
+}
+else
+{
+    Console.WriteLine("verdadero");
+}
+Console.WriteLine("ej 14");
+int mañanita = 15;
+int playadito = 10;
+int canarias = 5;
+int chamigo = 10;
+if (mañanita > playadito && !(canarias > chamigo))
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 15");
+int mancity = 10;
+int manunited = 2;
+int arsenal = 10;
+int chelsea = 5;
+int liverpool = 2;
+int tottenham = 8;
+if (mancity+manunited>arsenal || chelsea + liverpool < tottenham)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 16");
+int temperatura = 35;
+bool humedad = false;
+if (temperatura > 30 && humedad == true)
+{
+    Console.WriteLine("verdadero");
+}else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 17");
+int edad = 16;
+if (!(edad >= 18))
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 18");
+int g = 10;
+int h = 3;
+int i = 3;
+int j = 10;
+int k = 3;
+int l = 1;
+if (g/h==i && j % k == l){
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 19");
+string nombre = "ana";
+if (nombre == "juan" || nombre == "ana") 
+{
+    Console.WriteLine("verdadero");
+}
+else { 
+    Console.WriteLine("falso");
+}
+Console.WriteLine("ej 20");
+int m = 5;
+int n = 2;
+int ñ = 10;
+int o = 15;
+int p = 20;
+int q = 4;
+int r = 5;
+if (5*2+10>5 && 20 / 4 == 5)
+{
+    Console.WriteLine("verdadero");
+}
+else
+{
+    Console.WriteLine("falso");
+}
